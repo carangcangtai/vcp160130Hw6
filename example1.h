@@ -5,6 +5,11 @@
 #include <fstream>
 #include <stdint.h>
 
+/*
+* Records in the file have a fixed length buffer
+* that will hold a C-Style string. This is the
+* size of the fixed length buffer.
+*/
 const int maxRecordStringLength = 25;
 
 class BinaryFileRecord
