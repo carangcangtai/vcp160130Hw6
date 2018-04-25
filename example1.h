@@ -1,3 +1,7 @@
+//Van Pham
+//CS 3377
+//email: vcp160130@utdallas.edu
+
 #ifndef _EXAMPLE1_H_
 #define _EXAMPLE1_H_
 
