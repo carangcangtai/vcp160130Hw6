@@ -1,8 +1,6 @@
-#
-# UTD CS3377 CDK Example
-# Dr. Perkins
-# stephen.perkins@utdallas.edu
-#
+//Van Pham
+//CS 3377
+//email: vcp160130@utdallas.edu
 
 CXX = g++
 CXXFLAGS =
